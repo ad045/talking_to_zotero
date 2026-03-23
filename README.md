@@ -1,6 +1,6 @@
 # Talking to Zotero
 
-## Dear Gentle Reader,
+Dear Gentle Reader,
 
 Ever remembered *something* - a finding, a sentence, a precise word - but have absolutely no idea which of the 338 papers in your library it came from? It is certainly _somewhere_ in one of those files. Somewhere, but where? 
 
